@@ -50,10 +50,10 @@ Dataset	Accuracy
 
 ### 📚 Learning Outcomes
 
-1.Understood the process of binary classification
-2.Learned how to split, train, and evaluate models using scikit-learn
-3.Applied Logistic Regression to a real-world dataset
-4.Strengthened understanding of model accuracy and performance metrics
+1. Understood the process of binary classification
+2. Learned how to split, train, and evaluate models using scikit-learn
+3. Applied Logistic Regression to a real-world dataset
+4. Strengthened understanding of model accuracy and performance metrics
 
 ### 🧑‍💻Contact
 
