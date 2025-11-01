@@ -35,8 +35,8 @@ warnings – To handle unnecessary warnings
  5. Model Evaluation
     Calculated accuracy score for both train and test data:
 
-    `train_acc = accuracy_score(Y_train, model.predict(X_train))`
-    `test_acc = accuracy_score(Y_test, model.predict(X_test))`
+   -  `train_acc = accuracy_score(Y_train, model.predict(X_train))`
+   -  `test_acc = accuracy_score(Y_test, model.predict(X_test))`
 
 ### Example results:
 Dataset	Accuracy
